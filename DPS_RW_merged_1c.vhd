@@ -1,6 +1,7 @@
 -- for dev_test branch
 -- added
 --11.3.3 from parallel to serial
+-- erics change
 
 library ieee;
 use ieee.std_logic_1164.all;
